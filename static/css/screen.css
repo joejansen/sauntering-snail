@@ -47,7 +47,6 @@
 .icon-google-plus,
 .icon-facebook {
   font-family: "icons";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -225,15 +224,6 @@ a.btn:hover {
   opacity: 0.9;
 }
 
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
-  /*color: #50585D;*/
-}
-
 p,
 ul,
 ol {
@@ -261,7 +251,6 @@ blockquote {
   box-sizing: border-box;
   margin: 1em 0 1em -2.2em;
   padding: 0 0 0 1em;
-  /*border-left: #4a4a4a 0.4em solid;*/
   font-weight: lighter;
 }
 
@@ -414,13 +403,6 @@ table tbody > tr:nth-child(odd) > th {
   background-color: #f6f6f6;
 }
 
-table.plain {
-  tbody > tr:nth-child(odd) > td,
-  tbody > tr:nth-child(odd) > th {
-    background: transparent;
-  }
-}
-
 li {
   margin-left: 30px;
 }
@@ -486,9 +468,6 @@ ul li {
   top: 0;
   bottom: 0;
   z-index: -1;
-}
-
-#site-head:after {
 }
 
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
@@ -1114,7 +1093,6 @@ a.fn-item.active {
   }
 
   .site-footer {
-    /*margin-top: 0.8rem;*/
     font-size: 1.1rem;
   }
 }
