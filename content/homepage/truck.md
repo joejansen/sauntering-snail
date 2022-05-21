@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-{{< gallery dir="images/truck/" />}}
+{{< gallery dir="/images/truck" />}}
 
 ### 2008 Ford F-250 Lariat
 

@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 {{< load-photoswipe >}}
-{{< gallery dir="images/camper/" />}}
+{{< gallery dir="/images/camper" />}}
 
 ---
 
