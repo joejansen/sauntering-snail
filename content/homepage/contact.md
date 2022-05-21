@@ -4,8 +4,8 @@ weight: 5
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[saunter-for-sale@joejansen.co](mailto:saunter-for-sale@joejansen.co)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+1.317.348.1324](tel:+13173481324)
 
-Let us get in touch!
+Let me know if you are interested and we can schedule a video tour.

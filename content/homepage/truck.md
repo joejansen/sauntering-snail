@@ -4,10 +4,10 @@ weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+{{< gallery dir="images/truck/" />}}
 
-##### It's really strong!
+### 2008 Ford F-250 Lariat
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+The truck is a 2008 Ford F-250 Super Duty Diesel which came with the camper package (heavier duty leaf springs) from the factory. It has a 6 and 3/4 foot long bed and the Lariat trim package. There are a few minor scratches and dents, but overall the exterior and interior are in great shape. As of May 2022 it has 105,000 miles on it and has driven like a champion for us on and off road over 30,000 miles.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+While this model year of the Ford Powerstroke Diesel is not as highly regarded as other years, we have had great results and excellent reviews every time we have it serviced. Before we bought it it spent all of it's life in New Mexico with low annual miles and we have carefully serviced it since we purchased it. The car fax report is available here. It currently has the highly regarded NAME of TIRES, but they will should probably be replaced in the next 10,000 miles.
