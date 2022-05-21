@@ -1,12 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://joejansen.github.io/sauntering-snail/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
-
-# The name of this wonderful theme ;-).
-theme = "hugo-scroll"
 
 # The "title" of your website
 title = "Jane Doe - Nutrition Coach & Chef Consultant"
