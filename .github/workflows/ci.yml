@@ -22,7 +22,7 @@ jobs:
           hugo-version: latest
 
       - name: Build local site
-        run: hugo --minify --gc --destination ../public --source ./ --themesDir ../ --baseURL https://joejansen.github.io/sauntering-snail/
+        run: hugo --minify --gc --destination ./public --source ./ --themesDir ./ --baseURL https://joejansen.github.io/sauntering-snail
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
