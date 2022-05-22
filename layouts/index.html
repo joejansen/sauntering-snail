@@ -4,8 +4,8 @@
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 <!-- <header id="site-head" {{ with .Params.header_image }}style="background-image: url({{ . }})" {{ end }}> -->
 <header id="site-head">
-    <video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
-        <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
+    <video id="background-video" autoplay loop muted poster='{{ "/images/hero-thumb.jpg" | relURL }}'>
+        <source src='{{ "/videos/hero.mp4" | relURL }}' type="video/mp4">
     </video>
     <div class="vertical">
         <div id="site-head-content" class="inner">

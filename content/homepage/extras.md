@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-In addition to the truck and camper we have outfitted the rig with extra gear that we no longer need once we start backing around. We would be happy to include this gear if you purchase the truck and camper together.
+In addition to the truck and camper we have outfitted the rig with extra gear that we no longer need once we start backpacking abroad. We would be happy to include this gear if you purchase the truck and camper together.
 
 - Two high PSI air compressors for heavy duty tires. We would often air down our high PSI Series E rated tires for rough roads or loose sand and then air them back up when we reached pavement. We added 2 external DC plugs to the camper so we could run both compressors at the same time from the solar panels.
 - A pair of jumper cables.
