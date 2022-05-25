@@ -184,8 +184,7 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  box-shadow: #777777 0em 0em 0.3em;
-  background-color: #219cfb;
+  background-color: rgba(33, 156, 251, 0.5);
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -198,7 +197,8 @@ a.btn {
   position: relative;
   margin-top: 2rem;
   cursor: pointer;
-  font-family: "Oswald", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
