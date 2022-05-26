@@ -4,10 +4,6 @@ weight: 3
 header_menu: true
 ---
 
-{{< gallery dir="/images/truck" />}}
-
-### 2008 Ford F-250 Lariat
-
 The truck is a 2008 Ford F-250 Super Duty Diesel with the [factory camper package](https://www.rvandplaya.com/camper-package-on-ford-f250/) from the factory. It has a 6 and 3/4 foot long bed and the Lariat trim package. The exterior and interior are in great shape and as of May 2022 it has almost 105,000 miles on it and has driven like a champion for us on and off road.
 
 Before we bought it, it spent all of it's life in New Mexico with low annual miles and we have carefully serviced it since we purchased it. The CARFAX [report is available here](/sauntering-snail/pdf/CARFAX_Vehicle_History_Report_for_2008_FORD_F250_SUPER_DUTY_1FTSX21R58EB19660.pdf) and we have a more complete maintenance record that we can share if you'd like to see it. We have had excellent reviews every time we have it serviced and and would expect this engine to last for many more hundreds of thousands of miles.
@@ -25,8 +21,12 @@ The truck has the following additions:
 - 2 [Torklift F2012](https://www.amazon.com/gp/product/B003AMSUNO) Front Frame Mounted Tie downs.
 - 2 [Torklift F3004](https://www.amazon.com/Torklift-F3004-Frame-Mounted-Rear/dp/B002SSGANI/) Rear Frame Mounted Tie-downs.
 - 2 [Air Lift LoadLifter 5000 Ultimate](https://www.amazon.com/Air-Lift-88295-LoadLifter-Ultimate/dp/B00B32DISA) air bags on the rear axle.
-- A front grill guard. The top bar on this is broken and we could remove the whole guard if you didn't want it.
+- A front grill guard. The top bar on the guard is missing and we could remove the whole guard if you didn't want it.
 - A textured spray on bed liner.
 - A lighter and more aerodynamic tailgate.
 - A 7in backup camera monitor.
 - A [WeatherTech floor liner](https://www.weathertech.com/ford/2008/f-250-f-350-f-450-f-550/floorliner-digitalfit/bodystyle/supercab-extended-cab/trans_config/auto_w-o_floor_shifter/).
+
+### 2008 Ford F-250 Lariat
+
+{{< gallery dir="/images/truck" />}}
