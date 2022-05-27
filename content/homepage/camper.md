@@ -28,9 +28,5 @@ As we've traveled in the camper we've made a number of upgrades including:
 - External mounted traction recovery boards.
 - LED String lights and dimmer switch.
 
----
-
-### 2021 Palomino SS-1200
-
 {{< load-photoswipe >}}
 {{< gallery dir="/images/camper" />}}

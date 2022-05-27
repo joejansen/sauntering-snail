@@ -25,6 +25,4 @@ In addition to the truck and camper we have outfitted the rig with extra gear th
 - A small tool set that we used for all of the upgrades while on the road including a drill, an impact driver, a ratchet set, lots of electrical tools and supplies, a handsaw, and more.
 - We will share our list of favorite boondocking spots with you. We spent over a year scouting and exploring hundreds of camping spots and navigating the various listing sites. After all of that experience we have a short list of favorite spots (with GPS coordinates) and would be happy to give you advice on the lessons we learned finding excellent boondocking locations.
 
----
-
 {{< gallery dir="/images/extras" />}}

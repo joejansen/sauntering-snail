@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-The truck is a 2008 Ford F-250 Super Duty Diesel with the [factory camper package](https://www.rvandplaya.com/camper-package-on-ford-f250/) from the factory. It has a 6 and 3/4 foot long bed and the Lariat trim package. The exterior and interior are in great shape and as of May 2022 it has almost 105,000 miles on it and has driven like a champion for us on and off road.
+The truck is a 2008 Ford F-250 Super Duty Diesel with the [factory camper package](https://www.rvandplaya.com/camper-package-on-ford-f250/). It has a 6 and 3/4 foot long bed, an extended cab, and the Lariat trim package. Everything works like new in the camper including heated seats, power mirrors, power seats, and the rear sliding window. The exterior and interior are in great shape and as of May 2022 it has almost 105,000 miles on it and has driven like a champion for us on and off road.
 
 Before we bought it, it spent all of it's life in New Mexico with low annual miles and we have carefully serviced it since we purchased it. The CARFAX [report is available here](/sauntering-snail/pdf/CARFAX_Vehicle_History_Report_for_2008_FORD_F250_SUPER_DUTY_1FTSX21R58EB19660.pdf) and we have a more complete maintenance record that we can share if you'd like to see it. We have had excellent reviews every time we have it serviced and and would expect this engine to last for many more hundreds of thousands of miles.
 
@@ -14,7 +14,7 @@ We also wanted a vehicle size that would be highly manueverable and at 21ft long
 
 It currently has the highly regarded [Cooper Discoverer LT275/70R18](https://www.tireshot.com/tire/Cooper-Discoverer-ATP-275-70R18-125-122S-OWL-tire), but these are near the end of their life and you'll want to buy new tires before setting off on any longer trips.
 
-Heavy duty used trucks are hard to find right now, and this generation of F-250 (the 2008-2010 generation) with a Powerstroke engine, Lariat trim package, 4x4, and less than 150,000 miles are currently [listed between $26k to $40k at dealerships](https://www.cars.com/shopping/results/?dealer_id=&drivetrain_slugs[]=four_wheel_drive&fuel_slugs[]=diesel&keyword=&list_price_max=&list_price_min=&makes[]=ford&maximum_distance=all&mileage_max=150000&models[]=ford-f_250&page_size=20&sort=best_match_desc&stock_type=used&trims[]=ford-f_250-lariat&year_max=2010&year_min=2008&zip=46256).
+Heavy duty used trucks are hard to find right now, and this generation of F-250 (the 2008-2010 generation) with a Powerstroke engine, Lariat trim package, 4x4, and less than 150,000 miles are currently [listed between $26k to $40k at dealerships](https://www.cars.com/shopping/results/?dealer_id=&drivetrain_slugs[]=four_wheel_drive&fuel_slugs[]=diesel&keyword=&list_price_max=&list_price_min=&makes[]=ford&maximum_distance=all&mileage_max=150000&models[]=ford-f_250&page_size=20&sort=best_match_desc&stock_type=used&trims[]=ford-f_250-lariat&year_max=2010&year_min=2008&zip=46256) (obviously a private sale will be cheaper than that though).
 
 The truck has the following additions:
 
@@ -26,7 +26,5 @@ The truck has the following additions:
 - A lighter and more aerodynamic tailgate.
 - A 7in backup camera monitor.
 - A [WeatherTech floor liner](https://www.weathertech.com/ford/2008/f-250-f-350-f-450-f-550/floorliner-digitalfit/bodystyle/supercab-extended-cab/trans_config/auto_w-o_floor_shifter/).
-
-### 2008 Ford F-250 Lariat
 
 {{< gallery dir="/images/truck" />}}

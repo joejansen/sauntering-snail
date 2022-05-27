@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "en"
 
 # The "title" of your website
-title = "Truck and camper for sale"
+title = "Expedition vehicle for sale"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -23,12 +23,12 @@ title = "Truck and camper for sale"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/hero-thumb.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Truck and camper for sale"
+    title = "Expedition vehicle for sale"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
