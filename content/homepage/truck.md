@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-The truck is a 2008 Ford F-250 Super Duty Diesel with the [factory camper package](https://www.rvandplaya.com/camper-package-on-ford-f250/). It has a 6 and 3/4 foot long bed, an extended cab, and the Lariat trim package. Everything works like new in the camper including heated seats, power mirrors, power seats, and the rear sliding window. The exterior and interior are in great shape and as of May 2022 it has almost 105,000 miles on it and has driven like a champion for us on and off road.
+The truck is a 2008 Ford F-250 Super Duty with the [factory camper package](https://www.rvandplaya.com/camper-package-on-ford-f250/). It has the 6.4L Powerstroke diesel, a 6 and 3/4 foot long bed, an extended cab, and the Lariat trim package. Everything works like new in the camper including heated seats, power mirrors, power seats, and the rear sliding window. The exterior and interior are in great shape and as of May 2022 it has almost 105,000 miles on it and has driven like a champion for us on and off road.
 
 Before we bought it, it spent all of it's life in New Mexico with low annual miles and we have carefully serviced it since we purchased it. The CARFAX [report is available here](/sauntering-snail/pdf/CARFAX_Vehicle_History_Report_for_2008_FORD_F250_SUPER_DUTY_1FTSX21R58EB19660.pdf) and we have a more complete maintenance record that we can share if you'd like to see it. We have had excellent reviews every time we have it serviced and and would expect this engine to last for many more hundreds of thousands of miles.
 
