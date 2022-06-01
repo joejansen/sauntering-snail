@@ -8,6 +8,8 @@ The camper is a 2021 model year Palomino SS-1200 which we bought new in November
 
 This is a very comfortable and fully featured pop up camper and we had a blast living in it. I wrote more about [our assessment of the camper in this blog post](https://www.truckcamperadventure.com/review-of-the-palomino-ss-1200-pop-up-truck-camper/) from July 2021.
 
+We just spent a few days in May 2022 doing a deep clean in the camper and putting a fresh sealing on the roof and exterior and the camper looks better than new.
+
 ---
 
 ### Upgrades we've made to the camper
