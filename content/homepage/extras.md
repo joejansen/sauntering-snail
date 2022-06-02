@@ -21,7 +21,7 @@ In addition to the truck and camper we have outfitted the rig with extra gear th
 - Collapsible buckets which are very handy for washing things or going fishing.
 - 2 strands of exterior string lights that run on the outside DC jacks.
 - All of the pots, pans, cups, bowls, cutlery, and kitchen equipment that we used while traveling. Our custom built storage fits the things we've selected quite well!
-- The [Cleanwaste toilet](https://www.amazon.com/gp/product/B001TKGAKO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), a shovel, and lots of biodegradable wipes. This setup worked great for us when nature called.
+- The [Cleanwaste toilet](https://cleanwaste.com/products/go-anywhere-portable-toilet-the-pett), a shovel, and lots of biodegradable wipes. This setup worked great for us when nature called.
 - A small tool set that we used for all of the upgrades while on the road including a drill, an impact driver, a ratchet set, lots of electrical tools and supplies, a handsaw, and more.
 - We will share our list of favorite boondocking spots with you. We spent over a year scouting and exploring hundreds of camping spots and navigating the various listing sites. After all of that experience we have a short list of favorite spots (with GPS coordinates) and would be happy to give you advice on the lessons we learned finding excellent boondocking locations.
 
