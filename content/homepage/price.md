@@ -15,7 +15,7 @@ Here are a few of the data points that we used to arrive at our asking price:
 - $1000 for all of the other improvements that are built into the camper (custom cabinets, custom oak table, extra storage, 25 gallon water tank, AGM battery, custom electrical work) Buying, installing, and building all these items cost us about $3k (including paying an electrician to add most of the new electrical wiring).
 - $500 for all of the other extra items (air compressors, DJI Mavic Pro drone, extra fuel tank, extra water tanks, drills, tool set, etc.)
 
-## $53,000 for the entire bundle
+## $48,000 for the entire bundle
 
 Our preference is to sell the truck, camper, and all of the extras we've enumerated above together, and our bundled price reflects all of those items. We are willing to discuss different configurations, and if you are only interested in the camper or truck we're happy to answer any questions and listen to your offer,
 but we will give preference to any buyers who are interested in the full bundle.
