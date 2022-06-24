@@ -4,8 +4,8 @@
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 
 <header id="site-head">
-    <video id="background-video" autoplay loop muted poster='{{ "/images/hero-thumb.jpg" | relURL }}'>
-        <source src='{{ "/videos/hero.mp4" | relURL }}' type="video/mp4">
+    <video id="background-video" autoplay loop muted poster='{{ "/sauntering-snail/images/hero-thumb.jpg" | relURL }}'>
+        <source src='{{ "/sauntering-snail/videos/hero.mp4" | relURL }}' type="video/mp4">
     </video>
     <div class="vertical">
         <div id="site-head-content" class="inner">
